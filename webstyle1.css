@@ -30,3 +30,9 @@ font-family: 'Trebuchet MS';
     width: 500px;
 
 }
+#1{
+    color: cyan;
+    font-size: larger;
+    font-family: fantasy;
+    font-weight: 400;
+}
