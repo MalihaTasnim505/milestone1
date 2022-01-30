@@ -1,0 +1,38 @@
+h1{ background-color: rgba(141, 60, 60, 0.541); display: inline;}
+.form {
+    height:300px; 
+    width:200px; 
+    border:15px; 
+    border-radius:10px; 
+    background-color: crimson; 
+    border-color: darkred; 
+    padding:50px;
+}
+.form button
+{
+background-color: darkblue;
+}
+body
+{
+background-color: rgb(11, 130, 209);
+}
+.name
+{
+color: rgb(243, 26, 26);
+font-family: 'Trebuchet MS';
+}
+.paragraph{
+    background-color: firebrick;
+    border: rgb(214, 27, 58) 10px solid;
+    border-radius: 10px;
+    padding: 20px;
+    height: 500 px;
+    width: 500px;
+
+}
+#1{
+    color: cyan;
+    font-size: larger;
+    font-family: fantasy;
+    font-weight: 400;
+}
