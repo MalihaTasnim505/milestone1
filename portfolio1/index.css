@@ -8,7 +8,7 @@ body{
     
     padding: 2%;
 }
-.intro span{
+.orange{
     color: orange;
 }
 
@@ -44,5 +44,42 @@ body{
     background-repeat: no-repeat;
     background-position: right;
     display: flex;
+    margin-top: 5%;
+}
+.experience-area{
+    display: flex;
+    padding: 2%;
+    margin-top: 5%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+.experience-item{
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+
+}
+.title{
+    padding-left: 5%;
+    font-size: 45px;
+    font-weight: 900;
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, salmon);
+    border-image-slice: 1;
+}
+#senior{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
     margin-top: 5%;
 }
